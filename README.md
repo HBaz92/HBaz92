@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hassan_bazarah" target="blank"><img src="https://img.shields.io/twitter/follow/hassan_bazarah?logo=twitter&style=for-the-badge" alt="hassan_bazarah" /></a> </p>
 
-- 📫 How to reach me **hassan.baz92@gmail.com**
+- 📫 How to reach me **care@hassan-dev.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
